@@ -1,0 +1,6 @@
+{
+  "log_level": 3,
+  "delivery_host": ":8083",
+  "aggregator_host": "http://localhost:8082",
+  "client_host": "http://localhost:8084"
+}
